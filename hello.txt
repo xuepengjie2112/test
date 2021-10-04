@@ -6,4 +6,4 @@ hello git! hello xpj!
 hello git! hello xpj!
 hello git! hello xpj!
 hello git! hello xpj! master
-hello git! hello xpj!
+hello git! hello xpj! hot-fix test
